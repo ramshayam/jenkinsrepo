@@ -1,3 +1,3 @@
 #!/bin/bash
 #
-echo "BUILD TRIGGER"
+echo "BUILD TRIGGERs_code"
